@@ -2,7 +2,7 @@
 
 # User Registration API
 
-# This project aims to provide a robust User Registration API built with Node.js, Express, and MongoDB. The API allows users to register, authenticate, and perform various operations related to user management.
+This project aims to provide a robust User Registration API built with Node.js, Express, and MongoDB. The API allows users to register, authenticate, and perform various operations related to user management.
 
 # Tools
 
